@@ -18,7 +18,7 @@
 ### 4. Data exploration and visualisation
 ### 5. Multi-species occupancy models
 
-###Application(s):
+### Application(s):
 ### The camtrapR package has been used in a wide range of conservation and research projects. For example, the Wildlife Conservation Society has used it for monitoring and research projects relating to camera trap data as they use it to process and analyze camera trap data. The package has also been used by researchers at the Smithsonian Institution. They studied the distribution and abundance of large mammals in tropical forests. There are other applications of this package, all demonstrating that it can help analyze camera trap data and estimate parameters such as density, abundance, and behavior of wildlife species.
 
 ### Review
