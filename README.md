@@ -1,8 +1,8 @@
-# Assignment-7: Exploring R packages
+### Assignment-7: Exploring R packages
 
 ### Package title: camtrapR
 
-###Location: 
+### Location: 
 ### ---To install this package you can install the release version of camtrapR from CRAN:
 ### install.packages("camtrapR")
 ### or the latest GitHub version (containing recent changes and new features) via:
